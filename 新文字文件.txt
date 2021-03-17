@@ -1,0 +1,1 @@
+vs_community__885754156.1608638573.exe --layout C:\Users\frank\Desktop\vslayout\vslayout --add Microsoft.VisualStudio.Workload.NativeDesktop --includeRecommended
